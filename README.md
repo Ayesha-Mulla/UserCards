@@ -10,6 +10,8 @@ Steps to Run this application:
 
 4- Run command, "npm install --save", It will install all dependencies, application needs.
 
-5- This application runs on port "8033"
+5- npm run dev-pack
 
-6- You can run the application using "localhost:8033"
+6- This application runs on port "8033"
+
+7-You can run the application using "localhost:8033"
